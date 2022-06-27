@@ -1,0 +1,1 @@
+this data is used for pretraining NER for tweet text
