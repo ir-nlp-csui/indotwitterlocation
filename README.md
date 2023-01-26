@@ -2,6 +2,8 @@
 
 Machine learning , deep learning, and pre-trained language models approachesin estimating the location of Twitter users at the regional level.
 
+![alt text](https://github.com/ir-nlp-csui/indotwitterlocation/blob/main/BDCC-06-00077-g003.png?raw=true)
+
 ### Prerequisites
 1. Python 3.7 or higher 
 2. GPU for running the models (we used NVIDIA DGX-1)
